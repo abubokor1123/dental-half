@@ -1,0 +1,216 @@
+@media(max-width:991px){
+    
+}
+@media(max-width:575px){
+    .navbar-brand{
+        display: contents;
+    }
+    .navbar-nav .nav-link{
+        text-align: center;
+    }
+    .hero_content h1 {
+        font-size: 45px ;
+        padding: 7px 15px;
+    }
+    .hero_content h2 {
+        font-size: 32px ;
+        padding: 7px 15px;
+    }
+
+
+
+
+
+
+
+
+    .main_logo{
+        width: 40%;
+    }
+    .topbar{
+        display: none;
+    }
+    .Appointment{
+        display: none;
+    }
+    .hero_image img{
+        margin: 0;
+        width: 65%;
+    }
+    .hero_image img {
+        left: 100px;
+    }
+    .height{
+        text-align: center;
+    }
+    .about_heading h1 {
+        font-size: 30px;
+        padding: 10px 0;
+    }
+    .about_section {
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    .about_image img{
+        display: none;
+    }
+    .introduction_section{
+        padding: 40px 0;
+    }
+    .doctor {
+        margin-top: 50px;
+    }
+    .service_section{
+        padding: 35px 0;
+    }
+    .pricing_section{
+        padding: 35px 0;
+    }
+    .footer_header h3{
+        text-align: center;
+    }
+    .footer_content{
+        padding-bottom: 35px;
+    }
+    .follow_now h5 {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .icon_list ul {
+        justify-content: center;
+    }
+
+
+
+
+}
+
+
+
+
+
+@media(max-width:375px){
+    .main_logo{
+        width: 50%;
+    }
+    .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .hero_content h2{
+        font-size: 20px;
+        padding: 10px 20px;
+    }
+    .hero_content h1 {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    .hero_content p {
+        font-size: 15px;
+    }
+    .hero_botton a {
+        font-size: 13px ;
+        padding: 10px 22px;
+    }
+    .hero_image img{
+        display: none;
+    }
+    .height{
+        align-items: self-end;
+    }
+    .about_heading h1 {
+        font-size: 23px;
+        text-align: center;
+    }
+    .about_heading p{
+        font-size: 14px ;
+        text-align: center;
+    }
+    .about_content{
+        text-align: center;
+    }
+    .intro_heading h1{
+        font-size: 30px;
+    }
+    .intro_heading p{
+        font-size: 15px;
+    }
+    .image_name h3 {
+        font-size: 20px;
+    }
+    .service_content{
+        padding: 20px 20px;
+    }
+    .card{
+        
+    }
+    .item3 ul li {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .item2 span{
+        font-size: 40px;
+    }
+    .item1 span {
+        font-size: 25px;
+    }
+    .item1 p{
+        font-size: 14px;
+    }
+    .happy_heading h1{
+        font-size: 30px;
+    }
+    .happy_heading p{
+        font-size: 14px;
+    }
+    .white1{
+        width: 50%;
+        
+    }
+    .main_footer p{
+        font-size: 14px;
+        padding-bottom: 0;
+    }
+    .follow_now h5{
+        margin-right: 0;
+        margin-top: 20px;
+    }
+    .main_footer p{
+        margin-top: 10px;
+    }
+    .intro_heading h1{
+        font-size: 25px;
+    }
+    .intro_heading p {
+        font-size: 14px;
+    }
+    .doctor_name p{
+        font-size: 14px;
+        padding-top: 5px;
+    }
+    .doctor_name h6 {
+        font-size: 20px;
+    }
+    .about_content p{
+        font-size: 14px;
+    }
+
+
+    /* ........ */
+    .row {
+        --bs-gutter-x:0;
+        --bs-gutter-y: 0;
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: calc(var(--bs-gutter-y) * -1);
+        margin-right: calc(var(--bs-gutter-x) * -.5);
+        margin-left: calc(var(--bs-gutter-x) * -.5);
+    }
+
+
+
+
+
+
+
+}
